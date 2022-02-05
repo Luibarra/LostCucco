@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2580326184617233676}
   m_Layer: 0
   m_Name: Trees
-  m_TagString: Untagged
+  m_TagString: column
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -107,6 +107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3a397ee15d01c142931fd4cdfd0788e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scrollSpeed: -1.5
 --- !u!1 &2580326184733785131
 GameObject:
   m_ObjectHideFlags: 0
